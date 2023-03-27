@@ -1,3 +1,4 @@
+# IMPORTANT NOTE :
 Please dont copy assignments or cheat at all. That is not the purpose of this repo. You will get me and yourself both into trouble. 
 
 
@@ -14,10 +15,10 @@ TFIDF_custom_class implements the tfidf algorithm from scratch.
 ![UML diagram of the project](https://github.com/UmerTariq1/TF-IDF/blob/main/uml_diagram.png)
 
 
-#Directory Structure:
+# Directory Structure:
 ![directory structure](https://github.com/UmerTariq1/TF-IDF/blob/main/directory_structure.png)
 
-#How To Run:
+# How To Run:
 
 >> python softwareAssignment.py
 
@@ -32,7 +33,7 @@ You have to change only these constants if you want to run the program on your m
 
 Note: you will have to also change atleast the BASE_DIR constant if you want to the program on your machine.
 
-
+# IMPORTANT NOTE :
 Please dont copy assignments or cheat at all. That is not the purpose of this repo. You will get me and yourself both into trouble. 
 
 
