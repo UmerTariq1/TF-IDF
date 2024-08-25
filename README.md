@@ -1,5 +1,3 @@
-# IMPORTANT NOTE :
-Please dont copy assignments or cheat at all. That is not the purpose of this repo. You will get me and yourself both into trouble. 
 
 
 # Environment:
